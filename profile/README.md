@@ -12,7 +12,7 @@ Welcome to DataTalks.Club, a global online community of data enthusiasts who con
 
 <div align="center">
 
-**Join 73,000+ data enthusiasts from around the world!**
+**Join 79,000+ data enthusiasts from around the world!**
 
 <p align="center">
 <a href="https://datatalks.club/slack.html">Join Slack</a> •
@@ -29,7 +29,7 @@ Welcome to DataTalks.Club, a global online community of data enthusiasts who con
 </div>
 
 ## Quick Start
-1. [Join Slack](https://datatalks.club/slack.html): Connect with 73k+ data professionals
+1. [Join Slack](https://datatalks.club/slack.html): Connect with 79k+ data professionals
 2. [Browse events](http://lu.ma/dtc-events): See upcoming events
 3. [Subscribe to our community calendar](https://calendar.google.com/calendar/?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) or [YouTube channel](https://www.youtube.com/@DataTalksClub): Never miss an event
 4. [Explore our website](https://datatalks.club/)
