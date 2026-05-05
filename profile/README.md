@@ -1,7 +1,3 @@
-<!-- ════════════════════════════════════════════════
-     DataTalks.Club · Community README
-     ════════════════════════════════════════════════ -->
-
 <div align="center">
   <img src="https://github.com/DataTalksClub/datatalksclub.github.io/blob/main/images/dtc_logo_full.png" width="40%" alt="DataTalks.Club" />
   <br/><br/>
@@ -57,267 +53,128 @@
 4. **[Subscribe to the calendar](https://calendar.google.com/calendar/?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)** or **[YouTube channel](https://www.youtube.com/@DataTalksClub/featured)** — never miss an event
 
 
+## About
 
-## 🌐 About
+DataTalks.Club is an online community for data practitioners.
 
-**Mission:** Make data knowledge accessible to everyone, everywhere — through free education and collaborative learning.
+We focus on practical learning through:
 
-We organise online events, community activities, and free courses called **Zoomcamps**. Most activity happens on [Slack](https://datatalks.club/slack.html), where we post updates and discuss data, engineering, ML, careers, and more.
+- Free courses
+- Weekly technical events
+- Podcasts with practitioners
+- Slack discussions
+- Community-written articles
+- Study groups and project-based learning
 
-<br/>
+Most discussion happens in [Slack](https://datatalks.club/slack.html).
 
-<table>
-  <thead>
-    <tr>
-      <th align="left">🗂️ What we cover</th>
-      <th align="left">💡 Why people join</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>🤖&nbsp; AI &amp; LLMs — RAG, agents, vector search</td>
-      <td>🎓&nbsp; Free education — courses and events, always</td>
-    </tr>
-    <tr>
-      <td>🛠️&nbsp; ML Engineering — training, deployment</td>
-      <td>🤝&nbsp; Supportive community of peers at all levels</td>
-    </tr>
-    <tr>
-      <td>⚙️&nbsp; MLOps — tracking, monitoring, automation</td>
-      <td>🌍&nbsp; Global reach — practitioners from every continent</td>
-    </tr>
-    <tr>
-      <td>🗄️&nbsp; Data Engineering — pipelines, warehouses</td>
-      <td>📈&nbsp; Career growth — skills, projects, networking</td>
-    </tr>
-    <tr>
-      <td>📊&nbsp; Data Science — analytics, modelling</td>
-      <td>🔬&nbsp; Real practitioners — content by people who ship</td>
-    </tr>
-    <tr>
-      <td>💼&nbsp; Career — mentorship, leadership</td>
-      <td>🚀&nbsp; Always current — fresh topics every week</td>
-    </tr>
-  </tbody>
-</table>
+| Topics we cover | Community activities |
+|---|---|
+| Machine learning | Free courses |
+| Data engineering | Live cohorts |
+| MLOps | Weekly events |
+| LLMs and AI applications | Slack discussions |
+| Analytics and data science | Podcasts |
+| Career development | Articles and learning resources |
 
+---
 
+## Courses
 
-## 🎓 Free Courses
+All courses are free and open-source. You can study them at your own pace or join a live cohort when one is running.
+
+Live cohorts usually include homework, peer review, project work, and a certificate for participants who complete the requirements.
+
+See the [complete course guide](https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html) for prerequisites, tools, and project descriptions.
 
 <div align="center">
-
-All courses are **free**, **open-source**, and available **self-paced year-round**.<br/>
-Join a live cohort for graded homework, peer review, and a certificate.
-
-📖 &nbsp;[**Read the complete course guide**](https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html) — prerequisites, tools, and project details for every Zoomcamp.
-
-<br/>
-
-<img src="https://datatalks.club/images/posts/2024-04-11-guide-to-free-online-courses-at-datatalks-club/datatalksclub-courses-overview.png" width="90%" alt="DataTalks.Club free Zoomcamp courses overview" />
-
+  <img src="https://datatalks.club/images/posts/2024-04-11-guide-to-free-online-courses-at-datatalks-club/datatalksclub-courses-overview.png" width="90%" alt="DataTalks.Club course overview" />
 </div>
 
 <br/>
 
-<table>
-  <thead>
-    <tr>
-      <th align="left">Course</th>
-      <th align="center">Level</th>
-      <th align="center">Duration</th>
-      <th align="center">Next cohort</th>
-      <th align="left">What you'll build</th>
-      <th align="center">Links</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/DataTalksClub/machine-learning-zoomcamp"><b>Machine Learning Zoomcamp</b></a></td>
-      <td align="center">Beginner–Intermediate</td>
-      <td align="center">16 wks</td>
-      <td align="center">Sep 2025</td>
-      <td>ML models deployed as web services with Docker &amp; cloud</td>
-      <td align="center"><a href="https://airtable.com/appflP5cuR8bD5MIm/shryxwLd0COOEaqXo">Register</a> · <a href="https://datatalks.club/blog/machine-learning-zoomcamp.html">Article</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DataTalksClub/data-engineering-zoomcamp"><b>Data Engineering Zoomcamp</b></a></td>
-      <td align="center">Intermediate</td>
-      <td align="center">9 wks</td>
-      <td align="center">Jan 2026</td>
-      <td>Scalable pipelines processing batch &amp; streaming data</td>
-      <td align="center"><a href="https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD">Register</a> · <a href="https://datatalks.club/blog/data-engineering-zoomcamp.html">Article</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DataTalksClub/mlops-zoomcamp"><b>MLOps Zoomcamp</b></a></td>
-      <td align="center">Intermediate–Advanced</td>
-      <td align="center">12 wks</td>
-      <td align="center">—</td>
-      <td>Automated ML deployment with monitoring &amp; alerts</td>
-      <td align="center"><a href="https://airtable.com/appYdhA23GVZd1iN2/shrCb8y6eTbPKwSTL">Register</a> · <a href="https://datatalks.club/blog/mlops-zoomcamp.html">Article</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DataTalksClub/llm-zoomcamp"><b>LLM Zoomcamp</b></a></td>
-      <td align="center">Intermediate</td>
-      <td align="center">10 wks</td>
-      <td align="center">Jun 2026</td>
-      <td>AI chatbot answering questions from your knowledge base</td>
-      <td align="center"><a href="https://airtable.com/appPPxkgYLH06Mvbw/shr7WtxHEPXxaui0Q">Register</a> · <a href="https://datatalks.club/blog/llm-zoomcamp.html">Article</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DataTalksClub/ai-dev-tools-zoomcamp"><b>AI Dev Tools Zoomcamp</b></a></td>
-      <td align="center">Beginner–Intermediate</td>
-      <td align="center">6 wks</td>
-      <td align="center">Nov 2025</td>
-      <td>AI-powered dev toolkit with coding assistants &amp; agents</td>
-      <td align="center"><a href="https://airtable.com/appJRFiWKHBgmEt70/shrpw7rk55Ewr1jCG">Register</a> · <a href="https://datatalks.club/blog/ai-dev-tools-zoomcamp-2025-free-course-to-master-coding-assistants-agents-and-automation.html">Article</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp"><b>Stock Markets Analytics Zoomcamp</b></a></td>
-      <td align="center">Beginner–Intermediate</td>
-      <td align="center">8 wks</td>
-      <td align="center">Apr 2026</td>
-      <td>Trading system generating predictions &amp; executing trades</td>
-      <td align="center"><a href="https://pythoninvest.com/course">Register</a></td>
-    </tr>
-  </tbody>
-</table>
+| Course | Level | Duration | Next cohort | What you build | Links |
+|---|---:|---:|---:|---|---|
+| [Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) | Beginner to intermediate | 16 weeks | Sep 2025 | ML models deployed as web services with Docker and cloud | [Register](https://airtable.com/appflP5cuR8bD5MIm/shryxwLd0COOEaqXo) · [Article](https://datatalks.club/blog/machine-learning-zoomcamp.html) |
+| [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | Intermediate | 9 weeks | Jan 2026 | Batch and streaming data pipelines | [Register](https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD) · [Article](https://datatalks.club/blog/data-engineering-zoomcamp.html) |
+| [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) | Intermediate to advanced | 12 weeks | To be announced | ML deployment, experiment tracking, monitoring, and automation | [Register](https://airtable.com/appYdhA23GVZd1iN2/shrCb8y6eTbPKwSTL) · [Article](https://datatalks.club/blog/mlops-zoomcamp.html) |
+| [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) | Intermediate | 10 weeks | Jun 2026 | An AI assistant that answers questions from your knowledge base | [Register](https://airtable.com/appPPxkgYLH06Mvbw/shr7WtxHEPXxaui0Q) · [Article](https://datatalks.club/blog/llm-zoomcamp.html) |
+| [AI Dev Tools Zoomcamp](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp) | Beginner to intermediate | 6 weeks | Nov 2025 | A development workflow using coding assistants, automation, and agents | [Register](https://airtable.com/appJRFiWKHBgmEt70/shrpw7rk55Ewr1jCG) · [Article](https://datatalks.club/blog/ai-dev-tools-zoomcamp-2025-free-course-to-master-coding-assistants-agents-and-automation.html) |
+| [Stock Markets Analytics Zoomcamp](https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp) | Beginner to intermediate | 8 weeks | Apr 2026 | A trading system that generates predictions and executes trades | [Register](https://pythoninvest.com/course) |
 
-> [!NOTE]
-> Cohort dates update each cycle. Check the individual repo or [courses.datatalks.club](https://courses.datatalks.club) for the latest schedule.
+> Cohort dates change. Check the course repository or [courses.datatalks.club](https://courses.datatalks.club) for the current schedule.
 
+---
 
+## Events and community
 
-## 📅 Events & Community
+DataTalks.Club runs technical events, podcasts, workshops, and community activities. Most events are free and recorded.
 
-<div align="center">
+You can follow events on [lu.ma](https://lu.ma/dtc-events), browse the [full event list](https://datatalks.club/events.html), or join Slack for announcements.
 
-**All events are free and recorded on [YouTube](https://www.youtube.com/@DataTalksClub/featured).**<br/>
-Subscribe on [lu.ma](https://lu.ma/dtc-events) · browse [our site](https://datatalks.club/events.html) · follow [Slack](https://datatalks.club/slack.html) for updates.
+| Format | What it is | Links |
+|---|---|---|
+| Podcast | Conversations with data practitioners about their work, projects, and careers | [YouTube](https://www.youtube.com/playlist?list=PL3MmuxUbc_hK60wsCyvrEK2RjQsUi4Oa_) · [Spotify](https://open.spotify.com/show/0pck8zuiXdI0OrCg86DAPy) · [Apple](https://podcasts.apple.com/us/podcast/datatalks-club/id1541710331) · [All episodes](https://datatalks.club/podcast.html) |
+| Webinars | Technical sessions on data, ML, AI, and engineering topics | [Full library](https://www.youtube.com/playlist?list=PL3MmuxUbc_hKPx7yVcu-9aAJxkCe8y_Ld) |
+| Workshops | Coding sessions with datasets, tools, and implementation examples | [Collection](https://www.youtube.com/playlist?list=PL3MmuxUbc_hKXoe5VllAqUa0nTp0k9Mbl) |
+| Book of the Week | Authors join Slack for Q&A around a technical or career book | [Library](https://datatalks.club/books.html) · `#book-of-the-week` |
+| Project of the Week | Short study groups focused on a specific project or tool | [All projects](https://github.com/DataTalksClub/project-of-the-week) |
 
-</div>
+---
 
-<br/>
-
-| &nbsp; | Format | What to expect | Links |
-|::|--|-|-|
-| 🎙️ | **Podcast** | Real stories from data practitioners — no scripts, no pitches | [YouTube](https://www.youtube.com/playlist?list=PL3MmuxUbc_hK60wsCyvrEK2RjQsUi4Oa_) · [Spotify](https://open.spotify.com/show/0pck8zuiXdI0OrCg86DAPy) · [Apple](https://podcasts.apple.com/us/podcast/datatalks-club/id1541710331) · [All episodes](https://datatalks.club/podcast.html) |
-| 📺 | **Webinars** | Expert-led deep dives on cutting-edge data topics | [Full library](https://www.youtube.com/playlist?list=PL3MmuxUbc_hKPx7yVcu-9aAJxkCe8y_Ld) |
-| 🔧 | **Workshops** | Hands-on coding sessions with real datasets and open-source tools | [Collection](https://www.youtube.com/playlist?list=PL3MmuxUbc_hKXoe5VllAqUa0nTp0k9Mbl) |
-| 📚 | **Book of the Week** | Live author Q&A on Slack — thoughtful questions win free books | [Library](https://datatalks.club/books.html) · `#book-of-the-week` |
-| 🚀 | **Project of the Week** | Study groups building real projects together, with daily tasks | [All projects](https://github.com/DataTalksClub/project-of-the-week) |
-
-<details>
-<summary><b>Recent podcast episodes</b></summary>
-<br/>
-
-| Episode | Guest |
-||-|
-| [Starting a Data Conference: The Data Makers Fest Story](https://datatalks.club/podcast/s23e09-starting-data-conference-data-makers-fest-story.html) | Leonid Kholkine |
-| [Understanding the AI Engineer Role](https://datatalks.club/podcast/s23e07-understanding-ai-engineer-role.html) | Nasser Qadri |
-| [Data Engineer Career in 2026: Roles, Specializations, and What Companies Look For](https://datatalks.club/podcast/s23e06-data-engineer-career-in-2026-roles-specializations-and-what-companies-look-for.html) | Slawomir Tulski |
-| [Inside the AI Engineer Role: Tools, Skills, and Career Path](https://datatalks.club/podcast/s23e05-inside-ai-engineer-role-tools-skills-and-career-path.html) | Ruslan Shchuchkin |
-| [How to Become an AI Engineer After a Career Break](https://datatalks.club/podcast/s23e04-how-to-become-ai-engineer-after-career-break.html) | Revathy Ramalingam |
-
-</details>
-
-<details>
-<summary><b>Recent projects of the week</b></summary>
-<br/>
-
-| Project | Date |
-|||
-| [Mastering Docker](https://github.com/DataTalksClub/project-of-the-week/blob/main/2023-10-18-docker-1.md) | Oct 2023 |
-| [Python Package Creation](https://github.com/DataTalksClub/project-of-the-week/blob/main/2023-08-30-python-package.md) | Aug 2023 |
-| [Rust for Data](https://github.com/DataTalksClub/project-of-the-week/blob/main/2023-05-17-getting-started-rust.md) | May 2023 |
-| [Julia Programming](https://github.com/DataTalksClub/project-of-the-week/blob/main/2023-03-08-getting-started-julia.md) | Mar 2023 |
-| [GitHub Actions](https://github.com/DataTalksClub/project-of-the-week/blob/main/2023-02-08-github_actions-2.md) | Feb 2023 |
-
-</details>
-
-
-
-## 📖 Knowledge Hub
+## Knowledge hub
 
 | Resource | Description | Links |
-|-|-|-|
-| ✍️ **Articles** | Tutorials, career advice, and deep-dives by practitioners | [Browse all](https://datatalks.club/articles.html) · [Write for us](mailto:alexey@datatalks.club) |
-| 📬 **Newsletter** | Weekly roundup of events, courses, and data industry news | [Subscribe](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa) |
+|---|---|---|
+| Articles | Tutorials, course guides, career posts, and technical write-ups from the community | [Browse all](https://datatalks.club/articles.html) · [Write for us](mailto:alexey@datatalks.club) |
+| Newsletter | Weekly updates about courses, events, and selected data/AI resources | [Subscribe](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa) |
 
-<br/>
+### Popular articles
 
-**Popular articles**
+| Article | Author |
+|---|---|
+| [Your complete guide to free data courses](https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html) | Valeriia Kuka |
+| [Landing your first data engineering role](https://datatalks.club/blog/guidelines-to-get-data-engineer-job-against-odds.html) | Luís Oliveira |
+| [MLOps in 10 minutes](https://datatalks.club/blog/mlops-10-minutes.html) | Alexey Grigorev |
+| [PostgreSQL + Docker made simple](https://datatalks.club/blog/how-to-run-postgresql-and-pgadmin-with-docker.html) | Luís Oliveira |
+| [Career change at 45: it's never too late](https://datatalks.club/blog/starting-career-in-data-science-at-45.html) | Tatyjana Ankudo |
 
-| &nbsp; | Article | Author |
-|::||--|
-| 1 | [Your complete guide to free data courses](https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html) | Valeriia Kuka |
-| 2 | [Landing your first data engineering role](https://datatalks.club/blog/guidelines-to-get-data-engineer-job-against-odds.html) | Luís Oliveira |
-| 3 | [MLOps in 10 minutes](https://datatalks.club/blog/mlops-10-minutes.html) | Alexey Grigorev |
-| 4 | [PostgreSQL + Docker made simple](https://datatalks.club/blog/how-to-run-postgresql-and-pgadmin-with-docker.html) | Luís Oliveira |
-| 5 | [Career change at 45: it's never too late](https://datatalks.club/blog/starting-career-in-data-science-at-45.html) | Tatyjana Ankudo |
+---
 
+## Contributing
 
+You can contribute in several ways:
 
-## 💬 Testimonials
+- Write an article for the DataTalks.Club blog
+- Give a talk or run a workshop
+- Improve course materials
+- Open issues or pull requests in course repositories
+- Answer questions in Slack
+- Review learner projects
+- Share a course or event with someone who may find it useful
 
-<div align="center">
-<br/>
+For articles, talks, workshops, or partnerships, contact [alexey@datatalks.club](mailto:alexey@datatalks.club).
 
-*"It's a very active and engaging community for people of all levels. Love the content and the quality of the materials."*
+---
 
-<br/>
+## Support
 
-―――
+DataTalks.Club courses and events are free. The work is supported by sponsors, partners, and community contributions.
 
-<br/>
+For sponsorship or partnership questions, contact:
 
-*"I love DataTalks.Club. This community is lighting a lot of members' paths. I'm taking the MLOps course right now and doing networking in Slack. I've known Alexey for a very long time, and I have always seen how he and his team make an effort to build this kind of great, big community!"*
-
-<br/>
-
-―――
-
-<br/>
-
-*"In my opinion, Alexey and the team have created one of the best learning resources out there. I'd gladly pay a subscription to access the material you provide."*
-
-<br/>
-</div>
-
-
-
-## 🤝 Contributing
-
-DataTalks.Club is built by the community, for the community. Here's how to get involved:
-
-- ✍️ **Share your knowledge** — write an article, give a talk, or run a workshop → [alexey@datatalks.club](mailto:alexey@datatalks.club)
-- 🐛 **Improve course materials** — found a bug or outdated content? Open a PR in the relevant Zoomcamp repo
-- 💬 **Help fellow learners** — answer questions in Slack, review projects, share your experience
-- 📣 **Spread the word** — star this repo, share a course, or post about your learning journey
-
-
-
-## 💛 Support Our Mission
+- [Alexey Grigorev](mailto:alexey@datatalks.club), Founder and Community Lead
+- [Valeriia Kuka](mailto:valeriia@datatalks.club), Content Manager
 
 <div align="center">
-
-Help us keep data education free and accessible for everyone.<br/>
-Interested in sponsoring or partnering? Get in touch:
-
-**[Alexey Grigorev](mailto:alexey@datatalks.club)** — Founder & Community Lead &nbsp;·&nbsp; **[Valeriia Kuka](mailto:valeriia@datatalks.club)** — Content Manager
-
 <br/>
 
-*Our sponsors make free education possible:*
-
-<br/>
-
-<a href="https://dlthub.com/"><img height="38" src="https://github.com/DataTalksClub/data-engineering-zoomcamp/raw/main/images/dlthub.png" alt="dlt Hub"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.astronomer.io/"><img height="38" src="https://datatalks.club/images/partners/astronomer.png" alt="Astronomer"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://kestra.io/"><img height="38" src="https://datatalks.club/images/partners/kestra.png" alt="Kestra"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://snowplow.io/"><img height="38" src="https://datatalks.club/images/partners/snowplow.png" alt="Snowplow"/></a>
+<a href="https://dlthub.com/"><img height="36" src="https://github.com/DataTalksClub/data-engineering-zoomcamp/raw/main/images/dlthub.png" alt="dlt Hub"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.astronomer.io/"><img height="36" src="https://datatalks.club/images/partners/astronomer.png" alt="Astronomer"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://kestra.io/"><img height="36" src="https://datatalks.club/images/partners/kestra.png" alt="Kestra"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://snowplow.io/"><img height="36" src="https://datatalks.club/images/partners/snowplow.png" alt="Snowplow"/></a>
 
 </div>
