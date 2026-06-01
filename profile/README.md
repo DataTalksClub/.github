@@ -3,7 +3,7 @@
   <br/><br/>
   <h1>The Place to Talk About Data</h1>
   <p>
-    A global community of <strong>79,000+ data scientists, ML engineers, and AI practitioners</strong><br/>
+    A global community of <strong>94,000+ data scientists, ML engineers, and AI practitioners</strong><br/>
     learning together through free courses, weekly events, podcasts, and an active Slack.
   </p>
   <p>
