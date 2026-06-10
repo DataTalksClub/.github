@@ -26,7 +26,6 @@
     <a href="https://calendar.google.com/calendar/?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">Calendar</a>
   </p>
   <br/>
-  <b>⭐ Star this repo to stay updated with new courses and announcements</b>
 </div>
 
 
